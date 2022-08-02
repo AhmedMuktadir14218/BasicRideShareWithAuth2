@@ -1,0 +1,8 @@
+.logInPage .googleBtn {
+    border-radius: 15px;
+    width: 400px;
+    height: 40px;
+    border: 1px solid gray;
+    background-color: white;
+    cursor: pointer;
+  }
